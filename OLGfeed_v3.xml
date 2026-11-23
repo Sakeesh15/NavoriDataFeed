@@ -374,13 +374,13 @@
     <menu_title>TICKET PRICES</menu_title>
     <menu_subtitle>Pick your play. Add Encore for $1 more.</menu_subtitle>
     <menu_singles_label>SINGLE GAMES</menu_singles_label>
-    <menu_bundles_label>BUNDLES &amp; PROMOTIONS</menu_bundles_label>
+    <menu_bundles_label>BUNDLES + PROMOTIONS</menu_bundles_label>
     <menu_s1_name>LOTTO MAX</menu_s1_name>
     <menu_s1_price>$5</menu_s1_price>
-    <menu_s1_desc>per play | Tue &amp; Fri draws</menu_s1_desc>
+    <menu_s1_desc>per play | Tue + Fri draws</menu_s1_desc>
     <menu_s2_name>LOTTO 6/49</menu_s2_name>
     <menu_s2_price>$3</menu_s2_price>
-    <menu_s2_desc>per play | Wed &amp; Sat draws</menu_s2_desc>
+    <menu_s2_desc>per play | Wed + Sat draws</menu_s2_desc>
     <menu_s3_name>ENCORE</menu_s3_name>
     <menu_s3_price>$1</menu_s3_price>
     <menu_s3_desc>add to any Max or 6/49 play</menu_s3_desc>
@@ -418,7 +418,7 @@
     <n6 />
     <n7 />
     <bonus />
-    <tagline>per play | Tue &amp; Fri draws</tagline>
+    <tagline>per play | Tue + Fri draws</tagline>
     <image>https://sakeesh15.github.io/NavoriDataFeed/Tile_01_LottoMax.png</image>
     <game_code>PRICE_ROW</game_code>
     <headline_short />
@@ -498,7 +498,7 @@
     <n6 />
     <n7 />
     <bonus />
-    <tagline>per play | Wed &amp; Sat draws</tagline>
+    <tagline>per play | Wed + Sat draws</tagline>
     <image>https://sakeesh15.github.io/NavoriDataFeed/Tile_02_Lotto649.png</image>
     <game_code>PRICE_ROW</game_code>
     <headline_short />
