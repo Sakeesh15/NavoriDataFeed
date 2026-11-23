@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <items>
-  <!-- OLG demo feed v3 (grid update): records 1-5 unchanged; records 6-7 = single-game price rows (Datagrid rows 6-7), 8-10 = bundle/promo price rows (Datagrid rows 8-10) (fields used: game, tagline, price, image). All prices are DEMO placeholder values. -->
+  <!-- OLG demo feed v3 (grid update): records 1-5 unchanged; records 6-9 = single-game price rows (Datagrid rows 6-9; 8-9 are promotion placeholders), 10-13 = bundle/promo price rows (Datagrid rows 10-13; 13 is a promotion placeholder) (fields used: game, tagline, price, image). All prices are DEMO placeholder values. -->
   <item>
     <headline>LOTTO MAX - Estimated jackpot $20 Million plus MAXMILLIONS</headline>
     <game>LOTTO MAX</game>
@@ -562,6 +562,166 @@
     <menu_note />
   </item>
   <item>
+    <headline>TICKET PRICE ROW - PROMOTION SLOT 1 (SINGLES)</headline>
+    <game>YOUR PROMOTION HERE</game>
+    <jackpot />
+    <next_draw />
+    <draw_days />
+    <price>TBD</price>
+    <last_draw_date />
+    <winning_numbers />
+    <n1 />
+    <n2 />
+    <n3 />
+    <n4 />
+    <n5 />
+    <n6 />
+    <n7 />
+    <bonus />
+    <tagline>Update in the Datafeed Editor</tagline>
+    <image>https://sakeesh15.github.io/NavoriDataFeed/Tile_08_Promo.png</image>
+    <game_code>PRICE_ROW</game_code>
+    <headline_short />
+    <next_draw_label />
+    <next_draw_line />
+    <next_draw_short />
+    <jackpot_label />
+    <maxmillions_line />
+    <prizes_line />
+    <secondary_prize />
+    <promo_headline />
+    <promo_subline />
+    <draw_time_label />
+    <draw_time />
+    <draws_per_day />
+    <cta />
+    <responsible_msg />
+    <website />
+    <header_title />
+    <header_subtitle />
+    <footer_left />
+    <footer_center />
+    <footer_right />
+    <winner_names />
+    <winner_amount />
+    <winner_location />
+    <winner_game />
+    <superdraw_date />
+    <superdraw_prizes />
+    <language />
+    <valid_from />
+    <valid_to />
+    <menu_title />
+    <menu_subtitle />
+    <menu_singles_label />
+    <menu_bundles_label />
+    <menu_s1_name />
+    <menu_s1_price />
+    <menu_s1_desc />
+    <menu_s2_name />
+    <menu_s2_price />
+    <menu_s2_desc />
+    <menu_s3_name />
+    <menu_s3_price />
+    <menu_s3_desc />
+    <menu_s4_name />
+    <menu_s4_price />
+    <menu_s4_desc />
+    <menu_b1_name />
+    <menu_b1_price />
+    <menu_b1_desc />
+    <menu_b2_name />
+    <menu_b2_price />
+    <menu_b2_desc />
+    <menu_b3_name />
+    <menu_b3_price />
+    <menu_b3_desc />
+    <menu_b4_name />
+    <menu_b4_price />
+    <menu_b4_desc />
+    <menu_note />
+  </item>
+  <item>
+    <headline>TICKET PRICE ROW - PROMOTION SLOT 2 (SINGLES)</headline>
+    <game>YOUR PROMOTION HERE</game>
+    <jackpot />
+    <next_draw />
+    <draw_days />
+    <price>TBD</price>
+    <last_draw_date />
+    <winning_numbers />
+    <n1 />
+    <n2 />
+    <n3 />
+    <n4 />
+    <n5 />
+    <n6 />
+    <n7 />
+    <bonus />
+    <tagline>Update in the Datafeed Editor</tagline>
+    <image>https://sakeesh15.github.io/NavoriDataFeed/Tile_08_Promo.png</image>
+    <game_code>PRICE_ROW</game_code>
+    <headline_short />
+    <next_draw_label />
+    <next_draw_line />
+    <next_draw_short />
+    <jackpot_label />
+    <maxmillions_line />
+    <prizes_line />
+    <secondary_prize />
+    <promo_headline />
+    <promo_subline />
+    <draw_time_label />
+    <draw_time />
+    <draws_per_day />
+    <cta />
+    <responsible_msg />
+    <website />
+    <header_title />
+    <header_subtitle />
+    <footer_left />
+    <footer_center />
+    <footer_right />
+    <winner_names />
+    <winner_amount />
+    <winner_location />
+    <winner_game />
+    <superdraw_date />
+    <superdraw_prizes />
+    <language />
+    <valid_from />
+    <valid_to />
+    <menu_title />
+    <menu_subtitle />
+    <menu_singles_label />
+    <menu_bundles_label />
+    <menu_s1_name />
+    <menu_s1_price />
+    <menu_s1_desc />
+    <menu_s2_name />
+    <menu_s2_price />
+    <menu_s2_desc />
+    <menu_s3_name />
+    <menu_s3_price />
+    <menu_s3_desc />
+    <menu_s4_name />
+    <menu_s4_price />
+    <menu_s4_desc />
+    <menu_b1_name />
+    <menu_b1_price />
+    <menu_b1_desc />
+    <menu_b2_name />
+    <menu_b2_price />
+    <menu_b2_desc />
+    <menu_b3_name />
+    <menu_b3_price />
+    <menu_b3_desc />
+    <menu_b4_name />
+    <menu_b4_price />
+    <menu_b4_desc />
+    <menu_note />
+  </item>
+  <item>
     <headline>TICKET PRICE ROW - 6/49 + ENCORE</headline>
     <game>6/49 + ENCORE</game>
     <jackpot />
@@ -739,6 +899,86 @@
     <n7 />
     <bonus />
     <tagline>Max + 6/49 + Encore + Cash Pop</tagline>
+    <image>https://sakeesh15.github.io/NavoriDataFeed/Tile_08_Promo.png</image>
+    <game_code>PRICE_ROW</game_code>
+    <headline_short />
+    <next_draw_label />
+    <next_draw_line />
+    <next_draw_short />
+    <jackpot_label />
+    <maxmillions_line />
+    <prizes_line />
+    <secondary_prize />
+    <promo_headline />
+    <promo_subline />
+    <draw_time_label />
+    <draw_time />
+    <draws_per_day />
+    <cta />
+    <responsible_msg />
+    <website />
+    <header_title />
+    <header_subtitle />
+    <footer_left />
+    <footer_center />
+    <footer_right />
+    <winner_names />
+    <winner_amount />
+    <winner_location />
+    <winner_game />
+    <superdraw_date />
+    <superdraw_prizes />
+    <language />
+    <valid_from />
+    <valid_to />
+    <menu_title />
+    <menu_subtitle />
+    <menu_singles_label />
+    <menu_bundles_label />
+    <menu_s1_name />
+    <menu_s1_price />
+    <menu_s1_desc />
+    <menu_s2_name />
+    <menu_s2_price />
+    <menu_s2_desc />
+    <menu_s3_name />
+    <menu_s3_price />
+    <menu_s3_desc />
+    <menu_s4_name />
+    <menu_s4_price />
+    <menu_s4_desc />
+    <menu_b1_name />
+    <menu_b1_price />
+    <menu_b1_desc />
+    <menu_b2_name />
+    <menu_b2_price />
+    <menu_b2_desc />
+    <menu_b3_name />
+    <menu_b3_price />
+    <menu_b3_desc />
+    <menu_b4_name />
+    <menu_b4_price />
+    <menu_b4_desc />
+    <menu_note />
+  </item>
+  <item>
+    <headline>TICKET PRICE ROW - PROMOTION SLOT 3 (BUNDLES)</headline>
+    <game>YOUR PROMOTION HERE</game>
+    <jackpot />
+    <next_draw />
+    <draw_days />
+    <price>TBD</price>
+    <last_draw_date />
+    <winning_numbers />
+    <n1 />
+    <n2 />
+    <n3 />
+    <n4 />
+    <n5 />
+    <n6 />
+    <n7 />
+    <bonus />
+    <tagline>Update in the Datafeed Editor</tagline>
     <image>https://sakeesh15.github.io/NavoriDataFeed/Tile_08_Promo.png</image>
     <game_code>PRICE_ROW</game_code>
     <headline_short />
