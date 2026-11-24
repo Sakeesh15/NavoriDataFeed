@@ -3,7 +3,7 @@
   <!-- OLG demo feed v3 (grid update): records 1-5 unchanged; records 6-9 = single-game price rows (Datagrid rows 6-9; 8-9 are promotion placeholders), 10-13 = bundle/promo price rows (Datagrid rows 10-13; 13 is a promotion placeholder) (fields used: game, tagline, price, image). All prices are DEMO placeholder values. -->
   <item>
     <headline>LOTTO MAX - Estimated jackpot $20 Million plus MAXMILLIONS</headline>
-    <game>LOTTO MAX</game>
+    <game> LOTTO MAX</game>
     <jackpot>$20 Million</jackpot>
     <next_draw>Tuesday, November 24, 2026</next_draw>
     <draw_days>Tuesdays and Fridays</draw_days>
@@ -83,7 +83,7 @@
   </item>
   <item>
     <headline>LOTTO 6/49 - Gold Ball jackpot $30 Million plus $5 Million Classic Draw</headline>
-    <game>LOTTO 6/49</game>
+    <game> LOTTO 6/49</game>
     <jackpot>$30 Million</jackpot>
     <next_draw>Wednesday, November 25, 2026</next_draw>
     <draw_days>Wednesdays and Saturdays</draw_days>
@@ -163,7 +163,7 @@
   </item>
   <item>
     <headline>ENCORE - Add ENCORE to your play for an extra $1</headline>
-    <game>ENCORE</game>
+    <game> ENCORE</game>
     <jackpot>$1 Million</jackpot>
     <next_draw>Tuesday, November 24, 2026</next_draw>
     <draw_days>Tuesdays, Wednesdays, Fridays and Saturdays</draw_days>
@@ -243,7 +243,7 @@
   </item>
   <item>
     <headline>CASH POP - New! Play up to 5 daily draws</headline>
-    <game>CASH POP</game>
+    <game> CASH POP</game>
     <jackpot>$100,000</jackpot>
     <next_draw>Tuesday, November 24, 2026</next_draw>
     <draw_days>Daily</draw_days>
@@ -323,7 +323,7 @@
   </item>
   <item>
     <headline>TICKET PRICES - single games and bundles</headline>
-    <game>TICKET PRICES</game>
+    <game> TICKET PRICES</game>
     <jackpot />
     <next_draw />
     <draw_days />
@@ -403,7 +403,7 @@
   </item>
   <item>
     <headline>TICKET PRICE ROW - LOTTO MAX</headline>
-    <game>LOTTO MAX</game>
+    <game> LOTTO MAX</game>
     <jackpot />
     <next_draw />
     <draw_days />
@@ -483,7 +483,7 @@
   </item>
   <item>
     <headline>TICKET PRICE ROW - LOTTO 6/49</headline>
-    <game>LOTTO 6/49</game>
+    <game> LOTTO 6/49</game>
     <jackpot />
     <next_draw />
     <draw_days />
@@ -563,7 +563,7 @@
   </item>
   <item>
     <headline>TICKET PRICE ROW - PROMOTION SLOT 1 (SINGLES)</headline>
-    <game>CASH POP</game>
+    <game> CASH POP</game>
     <jackpot />
     <next_draw />
     <draw_days />
@@ -643,7 +643,7 @@
   </item>
   <item>
     <headline>TICKET PRICE ROW - PROMOTION SLOT 2 (SINGLES)</headline>
-    <game>ENCORE</game>
+    <game> ENCORE</game>
     <jackpot />
     <next_draw />
     <draw_days />
@@ -723,7 +723,7 @@
   </item>
   <item>
     <headline>TICKET PRICE ROW - 6/49 + ENCORE</headline>
-    <game>6/49 + ENCORE</game>
+    <game> 6/49 + ENCORE</game>
     <jackpot />
     <next_draw />
     <draw_days />
@@ -803,7 +803,7 @@
   </item>
   <item>
     <headline>TICKET PRICE ROW - LOTTO MAX + 6/49</headline>
-    <game>LOTTO MAX + 6/49</game>
+    <game> LOTTO MAX + 6/49</game>
     <jackpot />
     <next_draw />
     <draw_days />
@@ -883,7 +883,7 @@
   </item>
   <item>
     <headline>TICKET PRICE ROW - PROMO</headline>
-    <game>PROMO</game>
+    <game> PROMO</game>
     <jackpot />
     <next_draw />
     <draw_days />
@@ -963,7 +963,7 @@
   </item>
   <item>
     <headline>TICKET PRICE ROW - PROMOTION SLOT 3 (BUNDLES)</headline>
-    <game>YOUR PROMOTION HERE</game>
+    <game> YOUR PROMOTION HERE</game>
     <jackpot />
     <next_draw />
     <draw_days />
