@@ -563,11 +563,11 @@
   </item>
   <item>
     <headline>TICKET PRICE ROW - PROMOTION SLOT 1 (SINGLES)</headline>
-    <game>YOUR PROMOTION HERE</game>
+    <game>CASH POP</game>
     <jackpot />
     <next_draw />
     <draw_days />
-    <price>TBD</price>
+    <price>$1</price>
     <last_draw_date />
     <winning_numbers />
     <n1 />
@@ -578,8 +578,8 @@
     <n6 />
     <n7 />
     <bonus />
-    <tagline>Update in the Datafeed Editor</tagline>
-    <image>https://sakeesh15.github.io/NavoriDataFeed/MenuLogo10.png</image>
+    <tagline>Cash Pop</tagline>
+    <image>https://sakeesh15.github.io/NavoriDataFeed/MenuLogo4-2611240933.png</image>
     <game_code>PRICE_ROW</game_code>
     <headline_short />
     <next_draw_label />
@@ -643,11 +643,11 @@
   </item>
   <item>
     <headline>TICKET PRICE ROW - PROMOTION SLOT 2 (SINGLES)</headline>
-    <game>YOUR PROMOTION HERE</game>
+    <game>ENCORE</game>
     <jackpot />
     <next_draw />
     <draw_days />
-    <price>TBD</price>
+    <price>$1</price>
     <last_draw_date />
     <winning_numbers />
     <n1 />
@@ -658,7 +658,7 @@
     <n6 />
     <n7 />
     <bonus />
-    <tagline>Update in the Datafeed Editor</tagline>
+    <tagline>$1 per play</tagline>
     <image>https://sakeesh15.github.io/NavoriDataFeed/MenuLogo2.png</image>
     <game_code>PRICE_ROW</game_code>
     <headline_short />
@@ -898,8 +898,8 @@
     <n6 />
     <n7 />
     <bonus />
-    <tagline>Max + 6/49 + Encore + Cash Pop</tagline>
-    <image>https://sakeesh15.github.io/NavoriDataFeed/MenuLogo8.png</image>
+    <tagline>Holiday Bundle</tagline>
+    <image>https://sakeesh15.github.io/NavoriDataFeed/MenuLogo10-2611240934.png</image>
     <game_code>PRICE_ROW</game_code>
     <headline_short />
     <next_draw_label />
