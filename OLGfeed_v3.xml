@@ -963,11 +963,11 @@
   </item>
   <item>
     <headline>TICKET PRICE ROW - PROMOTION SLOT 3 (BUNDLES)</headline>
-    <game>HOLIDAY MAGIC</game>
+    <game>DEMO CONTENT</game>
     <jackpot />
     <next_draw />
     <draw_days />
-    <price>$5</price>
+    <price>Demo</price>
     <last_draw_date />
     <winning_numbers />
     <n1 />
@@ -978,8 +978,8 @@
     <n6 />
     <n7 />
     <bonus />
-    <tagline>Holiday Promo</tagline>
-    <image>https://sakeesh15.github.io/NavoriDataFeed/OLG_HolidayMagic_menu-2611242141.png</image>
+    <tagline>Add Content</tagline>
+    <image>https://sakeesh15.github.io/NavoriDataFeed/MenuLogo10.png</image>
     <game_code>PRICE_ROW</game_code>
     <headline_short />
     <next_draw_label />
